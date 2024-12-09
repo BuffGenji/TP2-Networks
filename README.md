@@ -1,4 +1,4 @@
-
+# Follow along this tutorial to recreate an exercise seen in class
 
 For this second TP we need to connect PC1 - which is a device not connected to a network - to PC3 - a device well within the network - through PC2 which acts as a router.
 
